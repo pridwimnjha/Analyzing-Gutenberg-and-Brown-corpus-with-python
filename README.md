@@ -124,6 +124,3 @@ __pycache__/
 ## Author
 
 Pridwimn Jha
-
-* produce a short `CONTRIBUTING.md`, or
-* tailor this README to exactly match the notebook's cell headings and results (I can parse the notebook if you allow me to access its contents).
